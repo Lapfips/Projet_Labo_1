@@ -1,6 +1,6 @@
 # Projet Laboratoire 
 
-Laboratiry projects 1 TSTN2 G2 RS ECO
+Projet Laboratoire 1 TSTN2 G2 RS ECO
 
 ## Membres du groupe 
 
@@ -28,8 +28,8 @@ Laboratiry projects 1 TSTN2 G2 RS ECO
 
 - Objectif :
 
-The main goal of this project is to
+L'objectif principal du projet est de 
 
 - Outils :
 
-We used
+Nous utilisons 
