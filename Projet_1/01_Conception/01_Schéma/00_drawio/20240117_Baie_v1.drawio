@@ -1,0 +1,43 @@
+<mxfile host="Electron" modified="2023-11-09T14:08:14.255Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.1 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="TqOc9ll52Tl0elUoIT41" version="22.0.1" type="device">
+  <diagram name="Page-1" id="Bu2CVvJDGata-XvYNKDm">
+    <mxGraphModel dx="998" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iW_fYPYI7zmd6UK3G0he-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="200" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="iW_fYPYI7zmd6UK3G0he-4" value="LAB-SW1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iW_fYPYI7zmd6UK3G0he-5" value="LAB-SW2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iW_fYPYI7zmd6UK3G0he-6" value="LAB-SRV1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iW_fYPYI7zmd6UK3G0he-8" value="LAB-SRV2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iW_fYPYI7zmd6UK3G0he-9" value="LAB-SRV3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iW_fYPYI7zmd6UK3G0he-10" value="LAB-SRV4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="120" y="230" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iW_fYPYI7zmd6UK3G0he-11" value="LAB-SRV5" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="120" y="260" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iW_fYPYI7zmd6UK3G0he-12" value="LAB-SRV6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iW_fYPYI7zmd6UK3G0he-13" value="ONDULEURS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iW_fYPYI7zmd6UK3G0he-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="70" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
