@@ -1,11 +1,5 @@
 # Projet Laboratoire
 
-<<<<<<< HEAD
-Projet Laboratoire 1 TSTN2 G2 RS ECO
-=======
-Laboratory projects 1 TSTN2 G2 RS ECO
->>>>>>> d4e6f7b2546a8ff64ab8584dc666378f4566cd31
-
 ## Membres du groupe
 
 ### TSTN2 G2 RS
