@@ -1,6 +1,6 @@
 # Projet Laboratoire 
 
-Laboratiry projects 1 TSTN2 G2 RS ECO
+Laboratory projects 1 TSTN2 G2 RS ECO
 
 ## Membres du groupe 
 
