@@ -22,7 +22,7 @@
 - Jean-Primaël Yao ODAH -> jeanprimaelyao.odah@edu.igensia.com
 - Sophian GAUBIN -> sophian.gaubin@edu.igensia.com
 
-## Domentation du projet
+## Documentation du projet
 
 - Objectif :
 
