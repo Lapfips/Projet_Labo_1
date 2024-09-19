@@ -1,35 +1,35 @@
-# Laboratory Project
+# Projet Laboratoire 
 
 Laboratiry projects 1 TSTN2 G2 RS ECO
 
-## Group members
+## Membres du groupe 
 
 ### TSTN2 G2 RS
 
-- Ethan FARGIER
-- Lou LEGRAND
-- Tim POIRIER
-- Alix PALLISIER
+- Ethan FARGIER (ethan.fargier@edu.igensia.com)
+- Lou LEGRAND (lou.legrand@edu.igensia.com)
+- Tim POIRIER (tim.poirier@edu.igensia.com)
+- Alix PALLISIER (alix.pallisier@edu.igensia.com)
 
 ### M2 RS G1
 
-- Matthieu BERRUET
-- Victor SENEZERGUES
-- Ziyed BEN KHALED
+- Matthieu BERRUET (matthieu.berruet@edu.igensia.com)
+- Victor SENEZERGUES (victor.senezergues@edu.igensia.com)
+- Ziyed BEN KHALED (ziyed.benkhaled@edu.igensia.com)
 
 ### M2 RS G2
 
-- Baptiste BERTHELOT
-- Eyal KHALIFA
-- Jean-Primaël Yao ODAH
-- Sophian GAUBIN
+- Baptiste BERTHELOT(baptiste.berthelot@edu.igensia.com)
+- Eyal KHALIFA (eyal.khalifa@edu.igensia.com)
+- Jean-Primaël Yao ODAH (jeanprimaelyao.odah@edu.igensia.com)
+- Sophian GAUBIN (sophian.gaubin@edu.igensia.com)
 
-## Project documentation
+## Domentation du projet 
 
-- Main goal:
+- Objectif :
 
 The main goal of this project is to
 
-- Tools:
+- Outils :
 
 We used
