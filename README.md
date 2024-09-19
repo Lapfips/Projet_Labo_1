@@ -23,3 +23,13 @@ Laboratiry projects 1 TSTN2 G2 RS ECO
 - Eyal KHALIFA
 - Jean-Primaël Yao ODAH
 - Sophian GAUBIN
+
+## Project documentation
+
+- Main goal:
+
+The main goal of this project is to
+
+- Tools:
+
+We used
